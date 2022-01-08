@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Tamim Iqbal Khan",
+    "image": "https://s.ndtvimg.com/images/entities/300/tamim-iqbal-902.png",
+    "salary": "300000",
+    "code": "a"
+  },
+  {
+    "id": 2,
+    "name": "Shakib Al Hasan",
+    "image": "https://s.ndtvimg.com/images/entities/300/shakib-al-hasan-792.png",
+    "salary": "500000",
+    "code": "b"
+  },
+  {
+    "id": 3,
+    "name": "Musfiqur Rahim",
+    "image": "https://s.ndtvimg.com/images/entities/300/mushfiqur-rahim-716.png",
+    "salary": "300000",
+    "code": "c"
+  },
+  {
+    "id": 4,
+    "name": "Mahmudullah",
+    "image": "https://s.ndtvimg.com/images/entities/300/mahmudullah-938.png",
+    "salary": "300000",
+    "code": "d"
+  },
+  {
+    "id": 5,
+    "name": "Taskin Ahmed",
+    "image": "https://s.ndtvimg.com/images/entities/300/taskin-ahmed-51428.png",
+    "salary": "200000",
+    "code": "e"
+  },
+  {
+    "id": 6,
+    "name": "Mustafizur Rahman",
+    "image": "https://s.ndtvimg.com/images/entities/300/mustafizur-rahman_636951801757855949.png",
+    "salary": "200000",
+    "code": "f"
+  },
+  {
+    "id": 7,
+    "name": "Rubel Hossain",
+    "image": "https://s.ndtvimg.com/images/entities/300/rubel-hossain-1071.png",
+    "salary": "200000",
+    "code": "g"
+  },
+  {
+    "id": 8,
+    "name": "Soumya Sarkar",
+    "image": "https://s.ndtvimg.com/images/entities/300/soumya-sarkar-62290.png",
+    "salary": "100000",
+    "code": "h"
+  },
+  {
+    "id": 9,
+    "name": "Mohammad Mithun",
+    "image": "https://s.ndtvimg.com/images/entities/300/mohammad-mithun-ali_636951799943800916.png",
+    "salary": "100000",
+    "code": "i"
+  },
+  {
+    "id": 10,
+    "name": "Liton Das",
+    "image": "https://c.ndtvimg.com/2020-03/ol00ri2o_liton-das_120x90_06_March_20.jpg",
+    "salary": "100000",
+    "code": "j"
+  }
+]
